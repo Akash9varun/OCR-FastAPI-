@@ -7,7 +7,6 @@
 
 Libraries required to install :
 
-pip install numpy
 
 pip install fastpi
 
